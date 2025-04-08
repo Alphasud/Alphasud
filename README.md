@@ -1,14 +1,10 @@
 <div>
-<img src="" width="100%" />
-
-<h1>Hey there 👋</h1>
-
+<img src="/banner.png" width="100%" />
 <p>
   I'm a curious developer who loves building cool stuff 🛠️<br/>
 </p>
 
 ---
-
 🎨 **Technologies I enjoy working with**
 
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=flat)
