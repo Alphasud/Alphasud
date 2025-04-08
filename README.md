@@ -1,5 +1,7 @@
 <div>
 <img src="/banner.png" width="100%" />
+  
+---
 <p>
   I'm a curious developer who loves building cool stuff 🛠️<br/>
 </p>
